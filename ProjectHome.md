@@ -1,0 +1,1 @@
+This application contributes 'backup' subcommand to django-admin.py and manage.py.
